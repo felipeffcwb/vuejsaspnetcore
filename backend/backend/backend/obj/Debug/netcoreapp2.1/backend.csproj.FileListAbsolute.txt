@@ -1,0 +1,16 @@
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cache
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/obj/Debug/netcoreapp2.1/backend.RazorAssemblyInfo.cs
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfoInputs.cache
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/obj/Debug/netcoreapp2.1/backend.AssemblyInfo.cs
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/bin/Debug/netcoreapp2.1/appsettings.Development.json
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/bin/Debug/netcoreapp2.1/appsettings.json
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/bin/Debug/netcoreapp2.1/backend.deps.json
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.json
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/bin/Debug/netcoreapp2.1/backend.runtimeconfig.dev.json
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/bin/Debug/netcoreapp2.1/backend.dll
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/bin/Debug/netcoreapp2.1/backend.pdb
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/obj/Debug/netcoreapp2.1/backend.csprojAssemblyReference.cache
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/obj/Debug/netcoreapp2.1/backend.RazorTargetAssemblyInfo.cache
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/obj/Debug/netcoreapp2.1/backend.dll
+C:/Users/55419/Desktop/CrudAspNetCoreApiVueJs/backend/backend/backend/obj/Debug/netcoreapp2.1/backend.pdb

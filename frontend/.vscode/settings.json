@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ef7b486b-dca1-4cec-8a4f-64621a6a2677/resourceGroups/vuejs/providers/Microsoft.Web/sites/crudvuejs",
+    "appService.deploySubpath": ""
+}
